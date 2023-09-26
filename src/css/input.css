@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .border-cyan {
+        border: 1px solid #3cb4ac !important;
+    }
+}
